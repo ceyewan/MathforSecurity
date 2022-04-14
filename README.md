@@ -1,0 +1,2 @@
+# MathematicalFundamentalsofInformationSecurity
+信息安全数学基础的一些重要公式和代码实现
