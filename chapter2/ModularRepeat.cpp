@@ -39,8 +39,8 @@ int func2(long long b, long long n, long long m)
 }
 int main()
 {
-    // 12996^227338 (mod 37909)
-    long long b = 12996, n = 227338, m = 37909;
+    // 129965232^22733898 (mod 37909896)
+    long long b = 129965232, n = 22733898, m = 37909896;
     int start = clock();
     int a = func1(b, n, m);
     cout << a << endl;

@@ -11,6 +11,8 @@ int func(int m)
     }
     return count;
 }
+
+// 筛法求素数
 int Eratoshenes(vector<int>& primes, int n)
 {
     vector<int> temp(n, 1);
